@@ -1,0 +1,7 @@
+Log pour l'apprentissage de multiplication 3 par 3 chiffres avec résultat de 5 chiffre en transfert 
+
+
+
+Avec une dimension latente de 500, et 20 epochs
+et une random seed de 73257
+
